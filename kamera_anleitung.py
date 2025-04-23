@@ -72,7 +72,7 @@ if seite == "Schnellstart":
     {
         "image_path": "content/08_Datei in Verzeichnis verschieben.png",
         "image_caption": "Datei umbenennen und verschieben",
-        "description": "Datei \"1.jpg\" löschen, Datei \"2.jpg\" mit F2 und STRG-V (kopieren aus Zwischenablage) in Identnummer umbenennen."
+        "description": "Datei \"1.jpg\" löschen, Datei \"2.jpg\" mit F2 und STRG-V (kopieren aus Zwischenablage) in Identnummer umbenennen und in entsprechenden Ordner verschieben."
     },
     {
         "image_path": "content/09_Zeichnung auswählen.png",
